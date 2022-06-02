@@ -11,3 +11,5 @@ public:
     int praca;
     int premia;
 };
+
+//deeeb
