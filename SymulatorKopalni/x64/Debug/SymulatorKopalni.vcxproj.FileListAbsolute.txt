@@ -1,0 +1,4 @@
+D:\Projekty Visual Studio\SymulatorKopalni\SymulatorKopalni\x64\Debug\SymulatorKopalni.vcxproj.AssemblyReference.cache
+D:\Projekty Visual Studio\SymulatorKopalni\SymulatorKopalni\x64\Debug\SymulatorKopalni.vcxproj.SuggestedBindingRedirects.cache
+D:\Projekty Visual Studio\SymulatorKopalni\SymulatorKopalni\x64\Debug\SymulatorKopalni.Form1.resources
+D:\Projekty Visual Studio\SymulatorKopalni\SymulatorKopalni\x64\Debug\SymulatorKopalni.vcxproj.GenerateResource.cache
