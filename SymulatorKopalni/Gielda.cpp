@@ -6,7 +6,7 @@
 
 
 using namespace std;
-
+//cccc
 
 int CGielda::ustalenie_ceny_b(CKopalnia* _kopalnia)
 {
